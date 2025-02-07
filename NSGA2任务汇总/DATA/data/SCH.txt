@@ -1,0 +1,300 @@
+The 0 generation situation:
+x1=2.185656e-312  
+f1(x)=0.134483   f2(x)=2.667608
+The 1 generation situation:
+x1=2.185656e-312  
+f1(x)=2.900742   f2(x)=0.088116
+The 2 generation situation:
+x1=2.185656e-312  
+f1(x)=0.000000   f2(x)=4.000097
+The 3 generation situation:
+x1=2.185656e-312  
+f1(x)=3.999765   f2(x)=0.000000
+The 4 generation situation:
+x1=2.185656e-312  
+f1(x)=0.868014   f2(x)=1.141323
+The 5 generation situation:
+x1=2.185656e-312  
+f1(x)=3.567336   f2(x)=0.012379
+The 6 generation situation:
+x1=2.185656e-312  
+f1(x)=0.774450   f2(x)=1.254336
+The 7 generation situation:
+x1=2.185656e-312  
+f1(x)=3.797855   f2(x)=0.002621
+The 8 generation situation:
+x1=2.185656e-312  
+f1(x)=0.009584   f2(x)=3.617983
+The 9 generation situation:
+x1=2.185656e-312  
+f1(x)=3.688452   f2(x)=0.006315
+The 10 generation situation:
+x1=2.185656e-312  
+f1(x)=1.927173   f2(x)=0.374267
+The 11 generation situation:
+x1=2.185656e-312  
+f1(x)=0.025101   f2(x)=3.391373
+The 12 generation situation:
+x1=2.185656e-312  
+f1(x)=0.234877   f2(x)=2.296312
+The 13 generation situation:
+x1=2.185656e-312  
+f1(x)=2.101760   f2(x)=0.302781
+The 14 generation situation:
+x1=2.185656e-312  
+f1(x)=0.692077   f2(x)=1.364431
+The 15 generation situation:
+x1=2.185656e-312  
+f1(x)=0.042605   f2(x)=3.216965
+The 16 generation situation:
+x1=2.185656e-312  
+f1(x)=0.316034   f2(x)=2.067357
+The 17 generation situation:
+x1=2.185656e-312  
+f1(x)=0.594374   f2(x)=1.510547
+The 18 generation situation:
+x1=2.185656e-312  
+f1(x)=2.522634   f2(x)=0.169513
+The 19 generation situation:
+x1=2.185656e-312  
+f1(x)=0.107680   f2(x)=2.795095
+The 20 generation situation:
+x1=2.185656e-312  
+f1(x)=0.203608   f2(x)=2.398691
+The 21 generation situation:
+x1=2.185656e-312  
+f1(x)=3.433965   f2(x)=0.021581
+The 22 generation situation:
+x1=2.185656e-312  
+f1(x)=0.003637   f2(x)=3.762398
+The 23 generation situation:
+x1=2.185656e-312  
+f1(x)=0.006184   f2(x)=3.691640
+The 24 generation situation:
+x1=2.185656e-312  
+f1(x)=0.252126   f2(x)=2.243641
+The 25 generation situation:
+x1=2.185656e-312  
+f1(x)=2.199979   f2(x)=0.267049
+The 26 generation situation:
+x1=2.185656e-312  
+f1(x)=0.017745   f2(x)=3.484904
+The 27 generation situation:
+x1=2.185656e-312  
+f1(x)=1.834312   f2(x)=0.416841
+The 28 generation situation:
+x1=2.185656e-312  
+f1(x)=0.930571   f2(x)=1.071927
+The 29 generation situation:
+x1=2.185656e-312  
+f1(x)=1.729988   f2(x)=0.468828
+The 30 generation situation:
+x1=2.185656e-312  
+f1(x)=3.189627   f2(x)=0.045816
+The 31 generation situation:
+x1=2.185656e-312  
+f1(x)=0.340963   f2(x)=2.005280
+The 32 generation situation:
+x1=2.185656e-312  
+f1(x)=0.448018   f2(x)=1.770652
+The 33 generation situation:
+x1=2.185656e-312  
+f1(x)=0.159634   f2(x)=2.561464
+The 34 generation situation:
+x1=2.185656e-312  
+f1(x)=0.438028   f2(x)=1.790681
+The 35 generation situation:
+x1=2.185656e-312  
+f1(x)=0.404786   f2(x)=1.859873
+The 36 generation situation:
+x1=2.185656e-312  
+f1(x)=3.085587   f2(x)=0.059251
+The 37 generation situation:
+x1=2.185656e-312  
+f1(x)=0.088600   f2(x)=2.897968
+The 38 generation situation:
+x1=2.185656e-312  
+f1(x)=1.377431   f2(x)=0.682871
+The 39 generation situation:
+x1=2.185656e-312  
+f1(x)=1.162610   f2(x)=0.849634
+The 40 generation situation:
+x1=2.185656e-312  
+f1(x)=0.641175   f2(x)=1.438239
+The 41 generation situation:
+x1=2.185656e-312  
+f1(x)=1.423058   f2(x)=0.651378
+The 42 generation situation:
+x1=2.185656e-312  
+f1(x)=0.644222   f2(x)=1.433685
+The 43 generation situation:
+x1=2.185656e-312  
+f1(x)=0.174184   f2(x)=2.504770
+The 44 generation situation:
+x1=2.185656e-312  
+f1(x)=2.383468   f2(x)=0.208074
+The 45 generation situation:
+x1=2.185656e-312  
+f1(x)=1.623158   f2(x)=0.527029
+The 46 generation situation:
+x1=2.185656e-312  
+f1(x)=0.072951   f2(x)=2.992573
+The 47 generation situation:
+x1=2.185656e-312  
+f1(x)=2.607350   f2(x)=0.148434
+The 48 generation situation:
+x1=2.185656e-312  
+f1(x)=2.321710   f2(x)=0.226847
+The 49 generation situation:
+x1=2.185656e-312  
+f1(x)=0.485219   f2(x)=1.698912
+The 50 generation situation:
+x1=2.185656e-312  
+f1(x)=0.286281   f2(x)=2.146072
+The 51 generation situation:
+x1=2.185656e-312  
+f1(x)=0.001624   f2(x)=3.840406
+The 52 generation situation:
+x1=2.185656e-312  
+f1(x)=0.367515   f2(x)=1.942595
+The 53 generation situation:
+x1=2.185656e-312  
+f1(x)=1.258240   f2(x)=0.771388
+The 54 generation situation:
+x1=2.185656e-312  
+f1(x)=3.775181   f2(x)=0.003251
+The 55 generation situation:
+x1=2.185656e-312  
+f1(x)=0.555580   f2(x)=1.574091
+The 56 generation situation:
+x1=2.185656e-312  
+f1(x)=0.051075   f2(x)=3.147085
+The 57 generation situation:
+x1=2.185656e-312  
+f1(x)=1.290861   f2(x)=0.746219
+The 58 generation situation:
+x1=2.185656e-312  
+f1(x)=1.059186   f2(x)=0.942515
+The 59 generation situation:
+x1=2.185656e-312  
+f1(x)=0.272066   f2(x)=2.185668
+The 60 generation situation:
+x1=2.185656e-312  
+f1(x)=0.962773   f2(x)=1.037933
+The 61 generation situation:
+x1=2.185656e-312  
+f1(x)=3.296325   f2(x)=0.034011
+The 62 generation situation:
+x1=2.185656e-312  
+f1(x)=3.334763   f2(x)=0.030230
+The 63 generation situation:
+x1=2.185656e-312  
+f1(x)=0.728427   f2(x)=1.314509
+The 64 generation situation:
+x1=2.185656e-312  
+f1(x)=2.819620   f2(x)=0.102930
+The 65 generation situation:
+x1=2.185656e-312  
+f1(x)=2.416604   f2(x)=0.198432
+The 66 generation situation:
+x1=2.185656e-312  
+f1(x)=0.489530   f2(x)=1.690873
+The 67 generation situation:
+x1=2.185656e-312  
+f1(x)=0.062306   f2(x)=3.063859
+The 68 generation situation:
+x1=2.185656e-312  
+f1(x)=0.567418   f2(x)=1.554332
+The 69 generation situation:
+x1=2.185656e-312  
+f1(x)=1.561871   f2(x)=0.562878
+The 70 generation situation:
+x1=2.185656e-312  
+f1(x)=2.291891   f2(x)=0.236294
+The 71 generation situation:
+x1=2.185656e-312  
+f1(x)=0.525547   f2(x)=1.625763
+The 72 generation situation:
+x1=2.185656e-312  
+f1(x)=1.983581   f2(x)=0.349994
+The 73 generation situation:
+x1=2.185656e-312  
+f1(x)=1.515035   f2(x)=0.591565
+The 74 generation situation:
+x1=2.185656e-312  
+f1(x)=0.146462   f2(x)=2.615648
+The 75 generation situation:
+x1=2.185656e-312  
+f1(x)=1.452167   f2(x)=0.631931
+The 76 generation situation:
+x1=2.185656e-312  
+f1(x)=1.322162   f2(x)=0.722750
+The 77 generation situation:
+x1=2.185656e-312  
+f1(x)=1.639110   f2(x)=0.518001
+The 78 generation situation:
+x1=2.185656e-312  
+f1(x)=1.347538   f2(x)=0.704198
+The 79 generation situation:
+x1=2.185656e-312  
+f1(x)=1.227384   f2(x)=0.795889
+The 80 generation situation:
+x1=2.185656e-312  
+f1(x)=3.236153   f2(x)=0.040429
+The 81 generation situation:
+x1=2.185656e-312  
+f1(x)=0.101833   f2(x)=2.825379
+The 82 generation situation:
+x1=2.185656e-312  
+f1(x)=1.022560   f2(x)=0.977692
+The 83 generation situation:
+x1=2.185656e-312  
+f1(x)=2.792280   f2(x)=0.108233
+The 84 generation situation:
+x1=2.185656e-312  
+f1(x)=1.997865   f2(x)=0.344031
+The 85 generation situation:
+x1=2.185656e-312  
+f1(x)=0.356502   f2(x)=1.968189
+The 86 generation situation:
+x1=2.185656e-312  
+f1(x)=2.959131   f2(x)=0.078281
+The 87 generation situation:
+x1=2.185656e-312  
+f1(x)=0.751892   f2(x)=1.283423
+The 88 generation situation:
+x1=2.185656e-312  
+f1(x)=3.395465   f2(x)=0.024750
+The 89 generation situation:
+x1=2.185656e-312  
+f1(x)=0.091339   f2(x)=2.882447
+The 90 generation situation:
+x1=2.185656e-312  
+f1(x)=2.737130   f2(x)=0.119420
+The 91 generation situation:
+x1=2.185656e-312  
+f1(x)=0.391494   f2(x)=1.888715
+The 92 generation situation:
+x1=2.185656e-312  
+f1(x)=0.071566   f2(x)=3.001493
+The 93 generation situation:
+x1=2.185656e-312  
+f1(x)=0.525621   f2(x)=1.625632
+The 94 generation situation:
+x1=2.185656e-312  
+f1(x)=0.185519   f2(x)=2.462644
+The 95 generation situation:
+x1=2.185656e-312  
+f1(x)=1.195371   f2(x)=0.822050
+The 96 generation situation:
+x1=2.185656e-312  
+f1(x)=0.043365   f2(x)=3.210391
+The 97 generation situation:
+x1=2.185656e-312  
+f1(x)=2.244941   f2(x)=0.251690
+The 98 generation situation:
+x1=2.185656e-312  
+f1(x)=3.021985   f2(x)=0.068442
+The 99 generation situation:
+x1=2.185656e-312  
+f1(x)=0.000186   f2(x)=3.945674

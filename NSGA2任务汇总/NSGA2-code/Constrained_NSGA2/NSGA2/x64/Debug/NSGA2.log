@@ -1,0 +1,54 @@
+﻿生成启动时间为 2024/11/27 10:33:55。
+日志记录详细程度设置为: Normal。     1>项目“D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\NSGA2\NSGA2.vcxproj”在节点 2 上(Build 个目标)。
+     1>D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(NSGA2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\Constrai.16f7b80a.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       VcpkgTripletSelection:
+         Using triplet "x64-windows" from "D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\"
+         Using normalized configuration "Debug"
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\CL.exe /c /I"D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\include" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt all_cmp.cpp globals.cpp individual.cpp main.cpp population.cpp problem.cpp rand_R_I.cpp
+         all_cmp.cpp
+         globals.cpp
+     1>D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\NSGA2\globals.cpp(1,1): warning C4828: 文件包含在偏移 0xe4 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+         individual.cpp
+         main.cpp
+         population.cpp
+         problem.cpp
+         rand_R_I.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\x64\Debug\Constrained_NSGA2.exe" /INCREMENTAL /ILK:"x64\Debug\Constrained_NSGA2.ilk" /NOLOGO /LIBPATH:"D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\debug\lib" /LIBPATH:"D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\debug\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\debug\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\x64\Debug\Constrained_NSGA2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\x64\Debug\Constrained_NSGA2.lib" /MACHINE:X64 x64\Debug\all_cmp.obj
+         x64\Debug\globals.obj
+         x64\Debug\individual.obj
+         x64\Debug\main.obj
+         x64\Debug\population.obj
+         x64\Debug\problem.obj
+         x64\Debug\rand_R_I.obj
+         NSGA2.vcxproj -> D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\x64\Debug\Constrained_NSGA2.exe
+       AppLocalFromInstalled:
+         pwsh.exe -ExecutionPolicy Bypass -noprofile -File "D:\soft\vcpkg_C++\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\x64\Debug\Constrained_NSGA2.exe" "D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\debug\bin" "x64\Debug\Constrai.16f7b80a.tlog\Constrained_NSGA2.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"
+         'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         命令“pwsh.exe -ExecutionPolicy Bypass -noprofile -File "D:\soft\vcpkg_C++\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\x64\Debug\Constrained_NSGA2.exe" "D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\debug\bin" "x64\Debug\Constrai.16f7b80a.tlog\Constrained_NSGA2.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"”已退出，代码为 9009。
+         "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "D:\soft\vcpkg_C++\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1" "D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\x64\Debug\Constrained_NSGA2.exe" "D:\soft\vcpkg_C++\vcpkg-master\installed\x64-windows\debug\bin" "x64\Debug\Constrai.16f7b80a.tlog\Constrained_NSGA2.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\Constrai.16f7b80a.tlog\unsuccessfulbuild”。
+         正在对“x64\Debug\Constrai.16f7b80a.tlog\Constrained_NSGA2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\NSGA2\NSGA2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+       “D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\NSGA2\NSGA2.vcxproj”(Build 目标) (1) ->
+       (PrepareForBuild 目标) -> 
+         D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(NSGA2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+
+
+       “D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\NSGA2\NSGA2.vcxproj”(Build 目标) (1) ->
+       (ClCompile 目标) -> 
+         D:\Desktop\postgraduate_study\work\10.15\code\Constrained_NSGA2\NSGA2\globals.cpp(1,1): warning C4828: 文件包含在偏移 0xe4 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+
+    2 个警告
+    0 个错误
+
+已用时间 00:00:05.54
